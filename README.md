@@ -18,3 +18,14 @@ To run the Travel Guide website locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Haothai1/Travello.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd travel-guide
+   ```
+3.Open the index.html file in a web browser.
+
+###Contact
+Developer: [Hao Thai]
+Email: [Haotthai064@gmail.com]
+LinkedIn: [LinkedIn profile link](https://www.linkedin.com/in/haothai/)
