@@ -25,7 +25,7 @@ To run the Travel Guide website locally:
    ```
 3.Open the index.html file in a web browser.
 
-###Contact
+### Contact
    Developer: Hao Thai
    Email: Haotthai064@gmail.com
    LinkedIn: [LinkedIn profile link](https://www.linkedin.com/in/haothai/)
