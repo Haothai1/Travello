@@ -16,7 +16,7 @@ The **Travel Guide Website** is an interactive, multi-page web application desig
 ## Installation and Usage 🔧
 To run the Travel Guide website locally:
 1. **Clone the repository**:
-  ```bash
+   ```bash
    git clone https://github.com/Haothai1/Travello.git
    ```
 2. Navigate to the project directory:
