@@ -27,5 +27,5 @@ To run the Travel Guide website locally:
 
 ### Contact 📫
 - Developer: Hao Thai
-- Email: Haotthai064@gmail.com
+- Email: Haothai064@gmail.com
 - LinkedIn: [LinkedIn profile link](https://www.linkedin.com/in/haothai/)
